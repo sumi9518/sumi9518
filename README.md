@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**sumi9518/sumi9518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...# Suman Yadav | Cloud & DevOps
+# Suman Yadav | Cloud & DevOps
 
 I’m completing AWS Cloud Engineering training at Digital Career Institute. My background is in software development, SaaS rollouts, API integrations, and workflow automation. My current lab work focuses on AWS networking, infrastructure as code with Terraform, and Docker.
 
@@ -25,5 +11,3 @@ I’m completing AWS Cloud Engineering training at Digital Career Institute. My 
 | [Cloud Engineer portfolio](https://sumi9518.github.io/cloud-engineer-portfolio/) | AWS lab, technical background, and certifications. |
 
 Available for a three-month Cloud Engineering or DevOps internship from mid-March 2027 in Cologne or remotely. [Connect on LinkedIn](https://www.linkedin.com/in/suman-yadav-aws/).
-
--->
